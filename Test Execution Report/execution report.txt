@@ -1,0 +1,1 @@
+Pass result of each test cases
