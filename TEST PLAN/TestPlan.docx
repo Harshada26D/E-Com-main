@@ -1,1 +1,40 @@
 # TestPlan
+document which describes the scope of testing ,based on  
+-what to test , scedules, tools, features to be tested, features not to be tested
+time needed for writing the test cases , time for excution of it, what are the team members involved.
+
+# CONTENTS in TEST PLAN-
+-Inclusions-  features to be tested, 
+-Environments- different enviornments test, dev, 
+   Windows 10= chrome, firefox,
+   Mac Os- safari browser
+
+-Exclusions-features not to be tested
+-Test Stratergy- manual or automation testing
+a) creation of Test sceanario and test  cases- 	
+different technique- boundary value analysis, equivalence class partitioning, use case testing
+b)testing process
+1,smoke testing
+2.indepth testing
+3.multiple test resourses 
+4. reporting the bugs
+5.As part of testing we will perform the testing
+     smoke testing
+     regresstion testing
+     usability testing
+
+- Defect Reporting Procedure- bug life cycles
+-Roles /responsibilities- names of team member and their roles
+-Test Scedules- when we have to start test cases and when to finish execution start and end dates
+-Test Derivaties- test plans , test reports, test cases ,defect reports
+-Pricing- test manger
+-Entry /Exit criteria- clearly mentioned
+-Suspension and resumption criteria- some functionality not working and 
+-Tools- excel. selenium ,jira
+-Risks and mitigations- leaves, problems and solutions
+-Approvals-
+       Approvals on diff documents from client
+	-Test plan
+	-test sceanarios
+	-test cases
+	-reports 
